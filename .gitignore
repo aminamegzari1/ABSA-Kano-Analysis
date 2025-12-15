@@ -1,0 +1,10 @@
+# Model weights
+*.pt
+backend/best_camembert_fixed.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
