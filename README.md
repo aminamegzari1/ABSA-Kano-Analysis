@@ -46,6 +46,6 @@ The backend pipeline follows these steps:
   - `positive`
   - `negative`
 
-### Input Representation
-Each prediction is performed on a concatenated input:
+
+
 
